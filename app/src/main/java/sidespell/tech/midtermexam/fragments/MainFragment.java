@@ -11,6 +11,8 @@ import sidespell.tech.midtermexam.R;
 
 public class MainFragment extends Fragment {
 
+    private
+
     public static MainFragment newInstance() {
         return new MainFragment();
     }
